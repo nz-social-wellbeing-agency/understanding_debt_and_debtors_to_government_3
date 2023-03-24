@@ -6,7 +6,7 @@ The initial analysis focused on how often people owe debt to more than one gover
 
 The report examines debt persistence, by considering the 713,000 New Zealand residents who owed debt to MSD, MoJ, or IR in 2020 and examining debt records back nine years to 2012. The research also provides further insights on individuals and families who experience prolonged or persistent debt. 
 
-This code should be read and used in alongside the accompanying report: **The-persistence-of-debt-to-government-research-report**.
+This code should be read and used in alongside the accompanying report: [The-persistence-of-debt-to-government-research-report](https://swa.govt.nz/assets/The-persistence-of-debt-to-government-research-report.pdf).
 
 ## Dependencies
 It is necessary to have an IDI project if you wish to run the code.
