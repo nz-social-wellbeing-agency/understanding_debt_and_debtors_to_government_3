@@ -1,4 +1,4 @@
-# Understanding debt and debtors to government - Persistence Analysis (Phase 3)
+# Understanding debt and debtors to government - (Phase 3)
 The persistence of debt of government examines the existing range to debt types people owe to government, the types of debt and the length of time the people have had debt to government. 
 
 ## Overview
