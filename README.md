@@ -1,4 +1,4 @@
-# understanding_debt_and_debtors_to_government_3
+# Understanding debt and debtors to government - Persistence Analysis (Phase 3)
 The persistence of debt of government examines the existing range to debt types people owe to government, the types of debt and the length of time the people have had debt to government. 
 
 ## Overview
@@ -31,7 +31,9 @@ This repository contains all the core code to assemble the data and run the anal
 
 * **Definitions:** All the definitions of the inputs are found here. This folder contains subfolders for population definitions and measure definitions. These definitions can be used independently of this project.
 
-* **Analysis:** This folder contains all the R scripts for executing each stage of the analysis and constructing the resulting output table. It also contains the R code for the 2019 - Student Loan Forecast model
+* **Analysis:** This folder contains all the R scripts for executing each stage of the analysis. It also contains the R code for the 2019 - Student Loan Forecast model
+
+* **Output:** This folder contains the R script for constructing the resulting aggregated output table.
 
 Note that this project uses the Dataset Assembly Tool to simplify dataset preparation prior to analysis. Researchers interested in the tool itself are advised to see its separate GitHub project. Documentation for the Dataset Assembly Tool can be found on our [website](https://swa.govt.nz/publications/guidance/). Interested readers are advised to view both the primer and the training presentation.
 
@@ -58,7 +60,7 @@ Prior to running the project be sure to review the associated report and documen
 
 ## Citation
 
-Social Wellbeing Agency (2022). Understanding debt to government 2. Source code. https://github.com/nz-social-wellbeing-agency/understanding_debt_and_debtors_to_government_2
+Social Wellbeing Agency (2022). Understanding debt to government 3. Source code. https://github.com/nz-social-wellbeing-agency/understanding_debt_and_debtors_to_government_3
 
 ## Getting Help
 If you have any questions email info@swa.govt.nz
